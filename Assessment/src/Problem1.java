@@ -11,7 +11,7 @@ public class Problem1 {
     Scanner input = new Scanner(System.in);
 
     // ask users to enter operator
-    System.out.println("Choose the Type Of Operation: +, -, *, or /");
+    System.out.println("Choose Type Of Operation: +, -, *, or /");
     typeOfOperation = input.nextLine();
 
     // ask users to enter numbers
